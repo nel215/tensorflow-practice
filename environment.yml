@@ -1,0 +1,19 @@
+name: tensorflow-practice
+dependencies:
+- openssl=1.0.2h=1
+- pep8=1.7.0=py35_0
+- pip=8.1.2=py35_0
+- python=3.5.1=0
+- readline=6.2=2
+- setuptools=23.0.0=py35_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- wheel=0.29.0=py35_0
+- xz=5.0.5=1
+- zlib=1.2.8=3
+- pip:
+  - numpy==1.11.0
+  - protobuf==3.0.0b2
+  - six==1.10.0
+  - tensorflow==0.9.0rc0
+
